@@ -1,6 +1,7 @@
 # Hey, I'm Ceebug!
 
-I enjoy building things for the web and experimenting with new ideas.
+I enjoy building things for the web, making Minecraft mods (as well as resource packs), and experimenting with new ideas.
+Feel free to have a look at some of my projects!
 
 ## Projects
 
