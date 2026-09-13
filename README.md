@@ -42,7 +42,7 @@ Feel free to have a look at some of my projects!
 > 
 > **Made with:** Java, JSON
 >
-> This mod's code is AI-Generated since I make textures for this
+> This mod's code is AI-Generated since this is meant to be a texture pack, it just has to be a mod since texture packs cannot accomplish this.
 >
 > <br>
 >
