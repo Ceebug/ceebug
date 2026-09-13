@@ -54,4 +54,4 @@ Feel free to have a look at some of my projects!
 - [**Spotify Profile**](https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/)
 - [**Gravatar Profile**](https://gravatar.com/ceebug/)
 - [**Patreon Page**](https://patreon.com/ceebug/)
-- [**Modrinth Profile**](https://modrinth.com/u/ceebug/)
+- [**Modrinth Profile**](https://modrinth.com/user/ceebug/)
