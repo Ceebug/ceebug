@@ -55,3 +55,4 @@ Feel free to have a look at some of my projects!
 - [**Gravatar Profile**](https://gravatar.com/ceebug/)
 - [**Patreon Page**](https://patreon.com/ceebug/)
 - [**Modrinth Profile**](https://modrinth.com/user/ceebug/)
+- [**Discord Profile**](https://discord.gg/UGRCQEvC)
