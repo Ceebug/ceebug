@@ -46,7 +46,7 @@ Feel free to have a look at some of my projects!
 >
 > <br>
 >
-> [`View repository`](https://github.com/Ceebug/Pixelmoji)
+> [`View repository`](https://github.com/Ceebug/Pixelmoji)&nbsp;&nbsp;&nbsp;[`View Mod Page` (Still under review tho)](https://modrinth.com/mod/pixelmoji)
 
 
 ## Links
