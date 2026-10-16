@@ -48,6 +48,33 @@ Feel free to have a look at some of my projects!
 >
 > [`View repository`](https://github.com/Ceebug/Pixelmoji)&nbsp;&nbsp;&nbsp;[`View Mod Page` (Still under review tho)](https://modrinth.com/mod/pixelmoji)
 
+### NiceNav
+> A Firefox style modification that makes window navigation controls look exactly the same when hovered over as any other button that lives on the browser chrome right next to them.
+>
+> **Made with:** CSS
+>
+> <br>
+>
+> [`View repository`](https://github.com/Ceebug/nicenav)
+
+### NiceTabs
+> A Firefox style modification that adds some spacing to the left of the open tabs.
+>
+> **Made with:** CSS
+>
+> <br>
+>
+> [`View repository`](https://github.com/Ceebug/nicetabs)
+
+### NiceToolbar
+> A Firefox style modification that makes the history buttons aligned properly on the toolbar.
+>
+> **Made with:** CSS
+>
+> <br>
+>
+> [`View repository`](https://github.com/Ceebug/nicetoolbar)
+
 
 ## Links
 - [**Portfolio Site**](https://ceebug.github.io/)
