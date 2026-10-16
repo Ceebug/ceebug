@@ -82,5 +82,5 @@ Feel free to have a look at some of my projects!
 - [**Gravatar Profile**](https://gravatar.com/ceebug/)
 - [**Patreon Page**](https://patreon.com/ceebug/)
 - [**Modrinth Profile**](https://modrinth.com/user/ceebug/)
-- [**Discord Profile**](https://discord.gg/UGRCQEvC) this is a friend request link cause Discord doesn't have profile links.
+- [**Discord Profile**](https://discord.gg/UGRCQEvC) (This is a friend request link cause Discord doesn't have profile links.)
 - [**Soundcloud Profile**](https://soundcloud.com/ceebug/)
