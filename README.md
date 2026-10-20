@@ -75,6 +75,14 @@ Feel free to have a look at some of my projects!
 >
 > [`View repository`](https://github.com/Ceebug/nicetoolbar)
 
+### NiceOneLine
+> A clean, minimalist patch for modern Firefox that forces the navigation bar and tabs into a single, seamless row.
+>
+> **Made with**: CSS
+>
+> <br>
+>
+> [`View repository`](https://github.com/Ceebug/niceoneline)
 
 ## Links
 - [**Portfolio Site**](https://ceebug.github.io/)
@@ -82,5 +90,5 @@ Feel free to have a look at some of my projects!
 - [**Gravatar Profile**](https://gravatar.com/ceebug/)
 - [**Patreon Page**](https://patreon.com/ceebug/)
 - [**Modrinth Profile**](https://modrinth.com/user/ceebug/)
-- [**Discord Profile**](https://discord.gg/UGRCQEvC) (This is a friend request link cause Discord doesn't have profile links.)
+- [**Discord Profile**](https://discord.gg/vysSfheWU)
 - [**Soundcloud Profile**](https://soundcloud.com/ceebug/)
