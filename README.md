@@ -84,6 +84,10 @@ Feel free to have a look at some of my projects!
 >
 > [`View repository`](https://github.com/Ceebug/niceoneline)
 
+
+## Stats
+
+![](https://raw.githubusercontent.com/ceebug/github-stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/ceebug/github-stats/master/generated/languages.svg)
 ## Links
 - [**Portfolio Site**](https://ceebug.github.io/)
 - [**Spotify Profile**](https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/)
