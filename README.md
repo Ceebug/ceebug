@@ -84,17 +84,15 @@ Feel free to have a look at some of my projects!
 >
 > [`View repository`](https://github.com/Ceebug/niceoneline)
 
-
+<!--
 ## Stats
 <div align="center">
-<a href="https://github.com/ceebug/github-stats">
 <img src="https://github.com/ceebug/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/ceebug/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/ceebug/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/ceebug/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
-</a>
 </div>
-
+--->
 ## Links
 - [**Portfolio Site**](https://ceebug.github.io/)
 - [**Spotify Profile**](https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/)
