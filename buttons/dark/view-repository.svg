@@ -33,6 +33,10 @@
     svg:hover .icon {
       stroke: #ffffff;
     }
+    .background {
+    fill: #21262d;
+    stroke: #30363d;
+    }
   </style>
 
   <rect class="background" x=".75" y=".75" width="148.5" height="34.5" rx="6" stroke-width="1.5"/>
