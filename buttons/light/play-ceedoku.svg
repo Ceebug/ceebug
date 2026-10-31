@@ -1,21 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="130" height="36" viewBox="0 0 130 36">
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="36" viewBox="0 0 135 36">
   <style>
     rect {
-      fill: #f6f8fa;
+      fill: #ffffff;
       stroke: #d1d9e0;
+      transition: fill .15s, stroke .15s;
     }
+
     text {
       fill: #25292e;
-      font-weight: 600;
+      font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      transition: fill .15s;
     }
+
+    .icon {
+      fill: none;
+      stroke: #25292e;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: stroke .15s;
+    }
+
     svg:hover rect {
-      fill: #eaeef2;
-      stroke: #818b98;
+      fill: #f3f4f6;
+      stroke: #8c959f;
     }
-    svg:hover text {
-      fill: #0969da;
-    }
+
+    svg:hover text { fill: #1f2328; }
+    svg:hover .icon { stroke: #1f2328; }
   </style>
-  <rect x=".5" y=".5" width="129" height="35" rx="6"/>
-  <text x="65" y="23" text-anchor="middle" font-family="Arial, sans-serif" font-size="13">Play Ceedoku</text>
+
+  <rect x=".75" y=".75" width="133.5" height="34.5" rx="8" stroke-width="1.5"/>
+
+  <path class="icon" d="
+    M19 12.5
+    Q19 10.5 21 11.5
+    L29.5 17
+    Q31 18 29.5 19
+    L21 24.5
+    Q19 25.5 19 23.5
+    Z
+  "/>
+
+  <text x="39" y="22" textLength="78" lengthAdjust="spacingAndGlyphs">Play Ceedoku</text>
 </svg>
