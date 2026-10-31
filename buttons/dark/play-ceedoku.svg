@@ -30,9 +30,17 @@
     svg:hover .icon { stroke: #ffffff; }
   </style>
 
-  <rect x=".75" y=".75" width="133.5" height="34.5" rx="6" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="133.5" height="34.5" rx="8" stroke-width="1.5"/>
 
-  <path class="icon" d="M19 11v14l12-7z"/>
+  <path class="icon" d="
+    M19 12.5
+    Q19 10.5 21 11.5
+    L29.5 17
+    Q31 18 29.5 19
+    L21 24.5
+    Q19 25.5 19 23.5
+    Z
+  "/>
 
   <text x="39" y="22" textLength="78" lengthAdjust="spacingAndGlyphs">Play Ceedoku</text>
 </svg>
