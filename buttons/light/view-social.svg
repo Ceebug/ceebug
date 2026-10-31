@@ -1,9 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
-  <rect x="1" y="1" width="158" height="38" rx="8"
-        fill="#f6f8fa" stroke="#d1d9e0"/>
-  <text x="80" y="25" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="14"
-        font-weight="600" fill="#25292e">
-    View social
-  </text>
+  <style>
+    .background {
+      fill: #ffffff;
+      stroke: #d1d9e0;
+      stroke-width: 1;
+      transition: fill .15s, stroke .15s;
+    }
+
+    text {
+      fill: #25292e;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      transition: fill .15s;
+    }
+
+    .icon {
+      fill: none;
+      stroke: #25292e;
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: stroke .15s;
+    }
+
+    svg:hover .background {
+      fill: #f3f4f6;
+      stroke: #8c959f;
+    }
+
+    svg:hover text,
+    svg:hover .icon {
+      stroke: #1f2328;
+    }
+
+    svg:hover text {
+      fill: #1f2328;
+    }
+  </style>
+
+  <rect class="background" x="1" y="1" width="158" height="38" rx="8"/>
+
+  <svg x="27" y="8" width="24" height="24" viewBox="0 0 24 24">
+    <g class="icon">
+      <path d="M14 6h4v4"/>
+      <path d="M18 6l-8 8"/>
+      <path d="M18 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/>
+    </g>
+  </svg>
+
+  <text x="58" y="25">View social</text>
 </svg>
