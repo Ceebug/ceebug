@@ -8,6 +8,9 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 
 > A free, lightweight Sudoku game with multiple difficulties, saving, hints, tools, animations, sound, haptics, and more.
 >
+> **What it looks like:**
+> ![Image of what Ceedoku looks like](ceedoku.png)
+> 
 > **Made with:** HTML, CSS, JavaScript, Electron
 
 <div>
@@ -35,7 +38,7 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 >
 > **Made with:** Java, JSON
 >
-> This mod's code is AI-generated because it is intended to function like a texture pack, but has to be a mod since resource packs cannot accomplish this.
+> This mod's code is AI-generated because it is intended to function like a texture pack, but has to be a mod since resource packs cannot accomplish this (properly).
 >
 > *Still under review on Modrinth.*
 
@@ -116,7 +119,7 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 
 ## Stats
 
-<div align="center">
+<div>
   <img src="https://github.com/ceebug/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview stats">
   <img src="https://github.com/ceebug/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub overview stats">
   <img src="https://github.com/ceebug/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="GitHub language stats">
@@ -125,26 +128,26 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 
 ## Socials
 
-### <img src="https://github.com/ceebug/ceebug/blob/main/icons/spotify.svg" height="24" alt=""> Spotify
+### <img src="icons/spotify.svg" height="1em" alt=""> Spotify
 
-<a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+<a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z#gh-dark-mode-only"><img src="buttons/dark/view-social.svg" height="36" alt="View Spotify"></a> <a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z#gh-light-mode-only"><img src="buttons/light/view-social.svg" height="36" alt="View Spotify"></a>
 
-### <img src="https://github.com/ceebug/ceebug/blob/main/icons/gravatar.svg" height="24" alt=""> Gravatar
+### <img src="icons/gravatar.svg" height="1em" alt=""> Gravatar
 
-<a href="https://gravatar.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://gravatar.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+<a href="https://gravatar.com/ceebug/#gh-dark-mode-only"><img src="buttons/dark/view-social.svg" height="36" alt="View Gravatar"></a> <a href="https://gravatar.com/ceebug/#gh-light-mode-only"><img src="buttons/light/view-social.svg" height="36" alt="View Gravatar"></a>
 
-### <img src="https://github.com/ceebug/ceebug/blob/main/icons/dark/patreon.png#gh-dark-mode-only" height="24" alt=""><img src="https://github.com/ceebug/ceebug/blob/main/icons/light/patreon.png#gh-light-mode-only" height="24" alt=""> Patreon
+### <img src="icons/dark/patreon.svg#gh-dark-mode-only" height="1em" alt=""><img src="icons/light/patreon.svg#gh-light-mode-only" height="1em" alt=""> Patreon
 
-<a href="https://patreon.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://patreon.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+<a href="https://patreon.com/ceebug/#gh-dark-mode-only"><img src="buttons/dark/view-social.svg" height="36" alt="View Patreon"></a> <a href="https://patreon.com/ceebug/#gh-light-mode-only"><img src="buttons/light/view-social.svg" height="36" alt="View Patreon"></a>
 
-### <img src="https://github.com/ceebug/ceebug/blob/main/icons/modrinth.svg" height="24" alt=""> Modrinth
+### <img src="icons/modrinth.svg" height="1em" alt=""> Modrinth
 
-<a href="https://modrinth.com/user/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://modrinth.com/user/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+<a href="https://modrinth.com/user/ceebug/#gh-dark-mode-only"><img src="buttons/dark/view-social.svg" height="36" alt="View Modrinth"></a> <a href="https://modrinth.com/user/ceebug/#gh-light-mode-only"><img src="buttons/light/view-social.svg" height="36" alt="View Modrinth"></a>
 
-### <img src="https://github.com/ceebug/ceebug/blob/main/icons/discord.svg" height="24" alt=""> Discord
+### <img src="icons/discord.svg" height="1em" alt=""> Discord
 
-<a href="https://discord.gg/vysSfheWU#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://discord.gg/vysSfheWU#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+<a href="https://discord.gg/vysSfheWU#gh-dark-mode-only"><img src="buttons/dark/view-social.svg" height="36" alt="View Discord"></a> <a href="https://discord.gg/vysSfheWU#gh-light-mode-only"><img src="buttons/light/view-social.svg" height="36" alt="View Discord"></a>
 
-### <img src="https://github.com/ceebug/ceebug/blob/main/icons/dark/soundcloud.png#gh-dark-mode-only" height="24" alt=""><img src="https://github.com/ceebug/ceebug/blob/main/icons/light/soundcloud.png#gh-light-mode-only" height="24" alt=""> SoundCloud
+### <img src="icons/dark/soundcloud.svg#gh-dark-mode-only" height="1em" alt=""><img src="icons/light/soundcloud.svg#gh-light-mode-only" height="1em" alt=""> SoundCloud
 
-<a href="https://soundcloud.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://soundcloud.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+<a href="https://soundcloud.com/ceebug/#gh-dark-mode-only"><img src="buttons/dark/view-social.svg" height="36" alt="View SoundCloud"></a> <a href="https://soundcloud.com/ceebug/#gh-light-mode-only"><img src="buttons/light/view-social.svg" height="36" alt="View SoundCloud"></a>
