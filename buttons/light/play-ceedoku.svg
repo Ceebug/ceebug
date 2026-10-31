@@ -30,7 +30,7 @@
     svg:hover .icon { stroke: #1f2328; }
   </style>
 
-  <rect x=".75" y=".75" width="133.5" height="34.5" rx="8" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="133.5" height="34.5" rx="6" stroke-width="1.5"/>
 
   <path class="icon" d="
     M19 12.5
