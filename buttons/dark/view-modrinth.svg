@@ -14,15 +14,21 @@
 
     .icon {
       fill: none;
-      stroke: #ffffff;
+      stroke: #c9d1d9;
       stroke-width: 1.8;
       stroke-linecap: round;
       stroke-linejoin: round;
+      transition: stroke .15s;
     }
 
     svg:hover rect {
       fill: #30363d;
       stroke: #8b949e;
+    }
+
+    svg:hover text,
+    svg:hover .icon {
+      stroke: #ffffff;
     }
 
     svg:hover text {
@@ -33,8 +39,28 @@
   <rect x=".75" y=".75" width="158.5" height="34.5" rx="6" stroke-width="1.5"/>
 
   <g class="icon">
-    <path d="M11 13.5 20 9l9 4.5v9L20 27l-9-4.5z"/>
-    <path d="m11 13.5 9 4.5 9-4.5M20 18v9"/>
+    <!-- Rounded isometric cube outline -->
+    <path d="
+      M20 7
+      Q20.5 7 21.3 7.4
+      L29 11.7
+      Q30 12.2 30 13.3
+      V22.7
+      Q30 23.8 29 24.3
+      L21.3 28.6
+      Q20 29.3 18.7 28.6
+      L11 24.3
+      Q10 23.8 10 22.7
+      V13.3
+      Q10 12.2 11 11.7
+      L18.7 7.4
+      Q19.5 7 20 7
+      Z
+    "/>
+
+    <!-- Cube face divisions -->
+    <path d="M10.8 12.5 20 17.5 29.2 12.5"/>
+    <path d="M20 17.5V28.8"/>
   </g>
 
   <text x="34" y="22">View Modrinth page</text>
