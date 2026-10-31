@@ -1,8 +1,7 @@
+
 # Hey, I'm Ceebug!
 
-I enjoy building things for the web, making Minecraft mods (as well as resource packs), and experimenting with new ideas.
-
-Feel free to have a look at some of my projects!
+I enjoy building things for the web, making Minecraft mods (as well as resource packs), and experimenting with new ideas. You can have a look at my development portfolio [here](https://ceebug.is-a.dev), or explore some of my projects below!
 
 ## Projects
 
@@ -12,14 +11,8 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** HTML, CSS, JavaScript, Electron
 
-[![Play Ceedoku](buttons/dark/play-ceedoku.svg#gh-dark-mode-only)](https://ceedoku.github.io/)
-[![Play Ceedoku](buttons/light/play-ceedoku.svg#gh-light-mode-only)](https://ceedoku.github.io/)
-
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/Ceedoku)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/Ceedoku)
-
-[![Learn more](buttons/dark/learn-more-ceedoku.svg#gh-dark-mode-only)](https://ceedoku.github.io/home)
-[![Learn more](buttons/light/learn-more-ceedoku.svg#gh-light-mode-only)](https://ceedoku.github.io/home)
+<div>
+<a href="https://ceedoku.github.io/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/play-ceedoku.svg" height="36" alt="Play Ceedoku"></a> <a href="https://ceedoku.github.io/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/play-ceedoku.svg" height="36" alt="Play Ceedoku"></a> <a href="https://github.com/Ceebug/Ceedoku#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a><a href="https://github.com/Ceebug/Ceedoku#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://ceedoku.github.io/home#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/learn-more-ceedoku.svg" height="36" alt="Learn more"></a> <a href="https://ceedoku.github.io/home#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/learn-more-ceedoku.svg" height="36" alt="Learn more"></a></div>
 
 ### JSF
 
@@ -27,8 +20,7 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** JavaScript
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/JSF)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/JSF)
+<a href="https://github.com/Ceebug/JSF#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/JSF#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ### FSJ
 
@@ -36,8 +28,7 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** JavaScript
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/FSJ)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/FSJ)
+<a href="https://github.com/Ceebug/FSJ#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/FSJ#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ### Pixelmoji
 
@@ -49,11 +40,48 @@ Feel free to have a look at some of my projects!
 >
 > *Still under review on Modrinth.*
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/Pixelmoji)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/Pixelmoji)
+<div>
+<a href="https://github.com/Ceebug/Pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/Pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a></div>
 
-[![View Modrinth page](buttons/dark/view-modrinth-page.svg#gh-dark-mode-only)](https://modrinth.com/mod/pixelmoji)
-[![View Modrinth page](buttons/light/view-modrinth-page.svg#gh-light-mode-only)](https://modrinth.com/mod/pixelmoji)
+### Teal Main Menus
+
+> A Minecraft resource pack that gives the game's menus and hotbar a teal makeover, including buttons, sliders, inventory screens, and more.
+>
+> **Made with:** JSON, PNG
+
+<div>
+<a href="https://modrinth.com/resourcepack/teal-main-menus#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/resourcepack/teal-main-menus#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
+
+### Ceebug's Rounded Hotbar
+
+> A Minecraft resource pack that gives every hotbar slot rounded corners to match the off-hand slot, making the HUD more visually consistent.
+>
+> **Made with:** JSON, PNG
+
+<div>
+<a href="https://modrinth.com/resourcepack/roundedhotbar#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/resourcepack/roundedhotbar#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
+
+### Diamond Upgrade Templates
+
+> A Minecraft mod that adds Diamond Upgrade Templates and Diamond Ingots, allowing you to upgrade iron armour and tools into diamond gear while keeping their durability, enchantments, and trims.
+>
+> **Made with:** Java, JSON
+
+<div>
+<a href="https://modrinth.com/mod/diamond-upgrade-templates#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/diamond-upgrade-templates#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
+
+### Useful Recipe Book
+
+> A Minecraft mod that adds a craftable recipe book, allowing players to unlock every recipe in the game.
+>
+> **Made with:** Java, JSON
+
+<div>
+<a href="https://modrinth.com/mod/useful-recipe-book#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/useful-recipe-book#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
 
 ### NiceNav
 
@@ -61,8 +89,7 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** CSS
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/nicenav)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/nicenav)
+<a href="https://github.com/Ceebug/nicenav#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicenav#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ### NiceTabs
 
@@ -70,8 +97,7 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** CSS
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/nicetabs)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/nicetabs)
+<a href="https://github.com/Ceebug/nicetabs#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicetabs#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ### NiceToolbar
 
@@ -79,8 +105,7 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** CSS
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/nicetoolbar)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/nicetoolbar)
+<a href="https://github.com/Ceebug/nicetoolbar#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicetoolbar#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ### NiceOneLine
 
@@ -88,8 +113,7 @@ Feel free to have a look at some of my projects!
 >
 > **Made with:** CSS
 
-[![View repository](buttons/dark/view-repository.svg#gh-dark-mode-only)](https://github.com/Ceebug/niceoneline)
-[![View repository](buttons/light/view-repository.svg#gh-light-mode-only)](https://github.com/Ceebug/niceoneline)
+<a href="https://github.com/Ceebug/niceoneline#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/niceoneline#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ## Stats
 
@@ -100,25 +124,28 @@ Feel free to have a look at some of my projects!
   <img src="https://github.com/ceebug/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="GitHub language stats">
 </div>
 
-## Links
+## Socials
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://ceebug.github.io/)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://ceebug.github.io/)
+### <img src="https://github.com/ceebug/ceebug/blob/main/icons/dark/spotify.png#gh-dark-mode-only" height="24" alt=""><img src="https://github.com/ceebug/ceebug/blob/main/icons/light/spotify.png#gh-light-mode-only" height="24" alt=""> Spotify
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/)
+<a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://gravatar.com/ceebug/)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://gravatar.com/ceebug/)
+### <img src="https://github.com/ceebug/ceebug/blob/main/icons/gravatar.svg" height="24" alt=""> Gravatar
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://patreon.com/ceebug/)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://patreon.com/ceebug/)
+<a href="https://gravatar.com/ceebug/"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://gravatar.com/ceebug/"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://modrinth.com/user/ceebug/)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://modrinth.com/user/ceebug/)
+### <img src="https://github.com/ceebug/ceebug/blob/main/icons/dark/patreon.png#gh-dark-mode-only" height="24" alt=""><img src="https://github.com/ceebug/ceebug/blob/main/icons/light/patreon.png#gh-light-mode-only" height="24" alt=""> Patreon
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://discord.gg/vysSfheWU)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://discord.gg/vysSfheWU)
+<a href="https://patreon.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://patreon.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
 
-[![View social](buttons/dark/view-social.svg#gh-dark-mode-only)](https://soundcloud.com/ceebug/)
-[![View social](buttons/light/view-social.svg#gh-light-mode-only)](https://soundcloud.com/ceebug/)
+### <img src="https://github.com/ceebug/ceebug/blob/main/icons/modrinth.svg" height="24" alt=""> Modrinth
+
+<a href="https://modrinth.com/user/ceebug/"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://modrinth.com/user/ceebug/"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+### <img src="https://github.com/ceebug/ceebug/blob/main/icons/discord.svg" height="24" alt=""> Discord
+
+<a href="https://discord.gg/vysSfheWU"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://discord.gg/vysSfheWU"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+### <img src="https://github.com/ceebug/ceebug/blob/main/icons/dark/soundcloud.png#gh-dark-mode-only" height="24" alt=""><img src="https://github.com/ceebug/ceebug/blob/main/icons/light/soundcloud.png#gh-light-mode-only" height="24" alt=""> SoundCloud
+
+<a href="https://soundcloud.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://soundcloud.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
