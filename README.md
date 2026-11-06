@@ -40,7 +40,6 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 >
 > This mod's code is AI-generated because it is intended to function like a texture pack, but has to be a mod since resource packs cannot accomplish this (properly).
 >
-> *Still under review on Modrinth.*
 
 <div>
 <a href="https://github.com/Ceebug/Pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/Pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a></div>
