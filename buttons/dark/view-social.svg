@@ -1,50 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
-  <style>
-    .background {
-      fill: #21262d;
-      stroke: #30363d;
-      stroke-width: 1.5;
-      transition: fill .15s, stroke .15s;
-    }
-
-    text {
-      fill: #c9d1d9;
-      font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      transition: fill .15s;
-    }
-
-    .icon {
-      fill: none;
-      stroke: #c9d1d9;
-      stroke-width: 1.8;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      transition: stroke .15s;
-    }
-
-    svg:hover .background {
-      fill: #30363d;
-      stroke: #8b949e;
-    }
-
-    svg:hover text {
-      fill: #ffffff;
-    }
-
-    svg:hover .icon {
-      stroke: #ffffff;
-    }
-  </style>
-
-  <rect class="background" x=".75" y=".75" width="158.5" height="38.5" rx="6"/>
-
-  <svg x="27" y="8" width="24" height="24" viewBox="0 0 24 24">
-    <g class="icon">
-      <path d="M14 6h4v4"/>
-      <path d="M18 6l-8 8"/>
-      <path d="M18 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/>
-    </g>
-  </svg>
-
-  <text x="58" y="25">View social</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="160" height="40" viewBox="0 0 160 40">
+  <foreignObject x="0" y="0" width="160" height="40">
+    <xhtml:div xmlns="http://www.w3.org/1999/xhtml" class="wrapper">
+      <xhtml:style>
+        * { box-sizing: border-box; }
+        .wrapper { width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+        button { appearance:none; -webkit-appearance:none; border:0; outline:0; box-shadow:none; width:100%; height:100%; margin:0; padding:0 14px; border-radius:6px; background:#21262d; color:#c9d1d9; display:inline-flex; align-items:center; justify-content:center; gap:9px; font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; line-height:1; white-space:nowrap; cursor:pointer; transition:background-color .15s,color .15s; }
+        button:hover { background:#30363d; color:#ffffff; }
+        svg { width:22px; height:22px; flex:none; stroke:currentColor; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+      </xhtml:style>
+      <xhtml:button type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 5h5v5M19 5l-9 9M18 13v5a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" fill="none"/></svg>
+        <xhtml:span>View social</xhtml:span>
+      </xhtml:button>
+    </xhtml:div>
+  </foreignObject>
 </svg>
