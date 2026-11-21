@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="135" height="36" viewBox="0 0 135 36">
-  <foreignObject x="0" y="0" width="135" height="36">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="960" height="36" viewBox="0 0 960 36">
+  <foreignObject x="0" y="0" width="960" height="36">
     <xhtml:div xmlns="http://www.w3.org/1999/xhtml" class="wrapper">
       <xhtml:style>
         * { box-sizing: border-box; }
@@ -9,7 +9,7 @@
         svg { width:20px; height:20px; flex:none; stroke:currentColor; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
       </xhtml:style>
       <xhtml:button type="button">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5.5c0-1.5 1.1-2 2.4-1.2l10 6.3c1.2.8 1.2 2 0 2.8l-10 6.3C8.1 20.5 7 20 7 18.5z" fill="currentColor" stroke="none"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5.5c0-1.5 1.1-2 2.4-1.2l10 6.3c1.2.8 1.2 2 0 2.8l-10 6.3C8.1 20.5 7 20 7 18.5z" fill="currentColor" stroke="none"/></svg>
         <xhtml:span>Play Ceedoku</xhtml:span>
       </xhtml:button>
     </xhtml:div>
