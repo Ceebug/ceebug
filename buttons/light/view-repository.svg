@@ -9,7 +9,7 @@
         svg { width:17px; height:17px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
       </xhtml:style>
       <xhtml:button type="button">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="18.5 10 17 17" aria-hidden="true" fill="none"><rect x="18.5" y="10" width="17" height="17" rx="2"/><path d="M22.5 14h9M22.5 18h9M22.5 22h5"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="17.6 9.1 18.8 18.8" aria-hidden="true" fill="none"><rect x="18.5" y="10" width="17" height="17" rx="2"/><path d="M22.5 14h9M22.5 18h9M22.5 22h5"/></svg>
         <xhtml:span style="display:flex;align-items:center;height:100%;line-height:1;">View repository</xhtml:span>
       </xhtml:button>
     </xhtml:div>

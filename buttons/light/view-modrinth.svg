@@ -9,7 +9,7 @@
         svg { width:17px; height:17px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
       </xhtml:style>
       <xhtml:button type="button">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="10 7 20 22" aria-hidden="true" fill="none"><path d="M20 7 Q20.5 7 21.3 7.4 L29 11.7 Q30 12.2 30 13.3 V22.7 Q30 23.8 29 24.3 L21.3 28.6 Q20 29.3 18.7 28.6 L11 24.3 Q10 23.8 10 22.7 V13.3 Q10 12.2 11 11.7 L18.7 7.4 Q19.5 7 20 7 Z M10.8 12.5 20 17.5 29.2 12.5 M20 17.5V28.8"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="9.1 6.1 21.8 23.8" aria-hidden="true" fill="none"><path d="M20 7 Q20.5 7 21.3 7.4 L29 11.7 Q30 12.2 30 13.3 V22.7 Q30 23.8 29 24.3 L21.3 28.6 Q20 29.3 18.7 28.6 L11 24.3 Q10 23.8 10 22.7 V13.3 Q10 12.2 11 11.7 L18.7 7.4 Q19.5 7 20 7 Z M10.8 12.5 20 17.5 29.2 12.5 M20 17.5V28.8"/></svg>
         <xhtml:span style="display:flex;align-items:center;height:100%;line-height:1;">View Modrinth page</xhtml:span>
       </xhtml:button>
     </xhtml:div>

@@ -9,7 +9,7 @@
         svg { width:17px; height:17px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
       </xhtml:style>
       <xhtml:button type="button">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="19 11 12 14" aria-hidden="true" fill="none"><path d="M19 12.5 Q19 10.5 21 11.5 L29.5 17 Q31 18 29.5 19 L21 24.5 Q19 25.5 19 23.5 Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="18.1 9.6 13.8 16.8" aria-hidden="true" fill="none"><path d="M19 12.5 Q19 10.5 21 11.5 L29.5 17 Q31 18 29.5 19 L21 24.5 Q19 25.5 19 23.5 Z"/></svg>
         <xhtml:span style="display:flex;align-items:center;height:100%;line-height:1;">Play Ceedoku</xhtml:span>
       </xhtml:button>
     </xhtml:div>
