@@ -91,16 +91,16 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 
 ## Socials
 
-<div><a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z"><img src="socialtext/dark/spotify.svg#gh-dark-mode-only" height="44" alt="Spotify"></a><a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z"><img src="socialtext/light/spotify.svg#gh-light-mode-only" height="44" alt="Spotify"></a></div>
+<div><a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z#gh-dark-mode-only"><img src="socialtext/dark/spotify.svg" height="44" alt="Spotify"></a><a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z#gh-light-mode-only"><img src="socialtext/light/spotify.svg" height="44" alt="Spotify"></a></div>
 
-<div><a href="https://gravatar.com/ceebug"><img src="socialtext/dark/gravatar.svg#gh-dark-mode-only" height="44" alt="Gravatar"></a><a href="https://gravatar.com/ceebug"><img src="socialtext/light/gravatar.svg#gh-light-mode-only" height="44" alt="Gravatar"></a></div>
+<div><a href="https://gravatar.com/ceebug#gh-dark-mode-only"><img src="socialtext/dark/gravatar.svg" height="44" alt="Gravatar"></a><a href="https://gravatar.com/ceebug#gh-light-mode-only"><img src="socialtext/light/gravatar.svg" height="44" alt="Gravatar"></a></div>
 
-<div><a href="https://www.patreon.com/Ceebug"><img src="socialtext/dark/patreon.svg#gh-dark-mode-only" height="44" alt="Patreon"></a><a href="https://www.patreon.com/Ceebug"><img src="socialtext/light/patreon.svg#gh-light-mode-only" height="44" alt="Patreon"></a></div>
+<div><a href="https://www.patreon.com/Ceebug#gh-dark-mode-only"><img src="socialtext/dark/patreon.svg" height="44" alt="Patreon"></a><a href="https://www.patreon.com/Ceebug#gh-light-mode-only"><img src="socialtext/light/patreon.svg" height="44" alt="Patreon"></a></div>
 
-<div><a href="https://modrinth.com/user/Ceebug"><img src="socialtext/dark/modrinth.svg#gh-dark-mode-only" height="44" alt="Modrinth"></a><a href="https://modrinth.com/user/Ceebug"><img src="socialtext/light/modrinth.svg#gh-light-mode-only" height="44" alt="Modrinth"></a></div>
+<div><a href="https://modrinth.com/user/Ceebug#gh-dark-mode-only"><img src="socialtext/dark/modrinth.svg" height="44" alt="Modrinth"></a><a href="https://modrinth.com/user/Ceebug#gh-light-mode-only"><img src="socialtext/light/modrinth.svg" height="44" alt="Modrinth"></a></div>
 
-<div><img src="socialtext/dark/discord.svg#gh-dark-mode-only" height="44" alt="Discord (Server)"><img src="socialtext/light/discord.svg#gh-light-mode-only" height="44" alt="Discord (Server)"></div>
+<div><a href="https://discord.gg/pk9V2abKtp#gh-dark-mode-only"><img src="socialtext/dark/discord.svg" height="44" alt="Discord (Server)"></a><a href="https://discord.gg/pk9V2abKtp#gh-light-mode-only"><img src="socialtext/light/discord.svg" height="44" alt="Discord (Server)"></a></div>
 
-<div><a href="https://soundcloud.com/ceebug"><img src="socialtext/dark/soundcloud.svg#gh-dark-mode-only" height="44" alt="SoundCloud"></a><a href="https://soundcloud.com/ceebug"><img src="socialtext/light/soundcloud.svg#gh-light-mode-only" height="44" alt="SoundCloud"></a></div>
+<div><a href="https://soundcloud.com/ceebug#gh-dark-mode-only"><img src="socialtext/dark/soundcloud.svg" height="44" alt="SoundCloud"></a><a href="https://soundcloud.com/ceebug#gh-light-mode-only"><img src="socialtext/light/soundcloud.svg" height="44" alt="SoundCloud"></a></div>
 
-<div><a href="https://crowdin.com/profile/ceebug"><img src="socialtext/dark/crowdin.svg#gh-dark-mode-only" height="44" alt="Crowdin"></a><a href="https://crowdin.com/profile/ceebug"><img src="socialtext/light/crowdin.svg#gh-light-mode-only" height="44" alt="Crowdin"></a></div>
+<div><a href="https://crowdin.com/profile/ceebug#gh-dark-mode-only"><img src="socialtext/dark/crowdin.svg" height="44" alt="Crowdin"></a><a href="https://crowdin.com/profile/ceebug#gh-light-mode-only"><img src="socialtext/light/crowdin.svg" height="44" alt="Crowdin"></a></div>
