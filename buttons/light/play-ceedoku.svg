@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="135" height="36" viewBox="0 0 135 36">
   <style>
     rect {
-      fill: #ffffff;
+      fill: #f6f8fa;
       stroke: #d1d9e0;
       transition: fill .15s, stroke .15s;
     }
@@ -22,7 +22,7 @@
     }
 
     svg:hover rect {
-      fill: #f3f4f6;
+      fill: #eff2f5;
       stroke: #8c959f;
     }
 
