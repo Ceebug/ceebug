@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200"><rect x=".75" y=".75" width="958.5" height="198.5" rx="33.333333333333336" fill="#21262d" stroke="#30363d" stroke-width="1.5"/>
- <text x="32" y="119" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">A lightweight JavaScript serialiser for Ceedoku Save Format (.CSF) files. Takes data and creates a</text>
-<text x="32" y="144" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">valid CSF save file.</text>
- <text x="32" y="175" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15">Made with: JavaScript</text><text x="32" y="80" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="23">A lightweight JavaScript serialiser for Ceedoku Save Format (.CSF) files.</text>
+ 
+
+ <text x="32" y="80" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="23">A lightweight JavaScript serialiser for Ceedoku Save Format (.CSF) files.</text>
 <text x="32" y="111" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="23">Takes data and creates a valid CSF save file.</text>
 <text x="32" y="165" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="19">Made with: JavaScript</text></svg>
