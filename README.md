@@ -8,13 +8,19 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 <img src="card/dark/ceedoku.svg#gh-dark-mode-only" width="100%" alt="Ceedoku project card">
 <img src="card/light/ceedoku.svg#gh-light-mode-only" width="100%" alt="Ceedoku project card">
 
+<a href="https://ceedoku.github.io/"><img src="buttons/dark/play-ceedoku.svg#gh-dark-mode-only" height="36" alt="play ceedoku"><img src="buttons/light/play-ceedoku.svg#gh-light-mode-only" height="36" alt="play ceedoku"></a> <a href="https://github.com/Ceebug/Ceedoku"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="view repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="view repository"></a> <a href="https://ceedoku.github.io/home"><img src="buttons/dark/learn-more-ceedoku.svg#gh-dark-mode-only" height="36" alt="learn more ceedoku"><img src="buttons/light/learn-more-ceedoku.svg#gh-light-mode-only" height="36" alt="learn more ceedoku"></a>
+
 ### JSF
 <img src="card/dark/jsf.svg#gh-dark-mode-only" width="100%" alt="JSF project card">
 <img src="card/light/jsf.svg#gh-light-mode-only" width="100%" alt="JSF project card">
 
+<a href="https://github.com/Ceebug/JSF"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="view repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="view repository"></a>
+
 ### FSJ
 <img src="card/dark/fsj.svg#gh-dark-mode-only" width="100%" alt="FSJ project card">
 <img src="card/light/fsj.svg#gh-light-mode-only" width="100%" alt="FSJ project card">
+
+<a href="https://github.com/Ceebug/FSJ"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="view repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="view repository"></a>
 
 ### Pixelmoji
 <img src="card/dark/pixelmoji.svg#gh-dark-mode-only" width="100%" alt="Pixelmoji project card">
