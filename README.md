@@ -1,137 +1,158 @@
-# Mona Sans
+# Hey, I'm Ceebug!
 
-[Download Mona Sans](https://github.com/github/mona-sans/releases/latest) • [Typeface microsite](https://github.com/mona-sans) ↗️
+I enjoy building things for the web, making Minecraft mods (as well as resource packs), and experimenting with new ideas. You can have a look at my development portfolio [here](https://ceebug.is-a.dev), or explore some of my projects below!
 
-A strong and versatile typeface, designed together with [Degarism](https://degarism.com/) and inspired by industrial-era grotesques. Mona Sans works well across product, web, and print. Made to work well together with  Mona Sans's sidekick, [Hubot Sans](https://github.com/github/hubot-sans).
+## Projects
 
-Mona Sans is a [variable font](https://web.dev/variable-fonts/). Variable fonts enable different variations of a typeface to be incorporated into one single file, and are supported by all major browsers, allowing for performance benefits and granular design control of the typeface's weight, width, and slant.
+### Ceedoku
 
-![mona-sans](https://github.com/user-attachments/assets/3d9667f5-30ad-4b95-bc8a-58e38767187c)
+> A free, lightweight Sudoku game with multiple difficulties, saving, hints, tools, animations, sound, haptics, and more.
+>
+> **What it looks like:**
+> ![Image of what Ceedoku looks like](ceedoku.png)
+>
+> **Made with:** HTML, CSS, JavaScript, Electron
 
-## Variable font usage
+<div>
+<a href="https://ceedoku.github.io/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/play-ceedoku.svg" height="36" alt="Play Ceedoku"></a> <a href="https://ceedoku.github.io/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/play-ceedoku.svg" height="36" alt="Play Ceedoku"></a> <a href="https://github.com/Ceebug/Ceedoku#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a><a href="https://github.com/Ceebug/Ceedoku#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://ceedoku.github.io/home#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/learn-more-ceedoku.svg" height="36" alt="Learn more"></a> <a href="https://ceedoku.github.io/home#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/learn-more-ceedoku.svg" height="36" alt="Learn more"></a></div>
 
-The design space is large, so we've split the font up into a few variable fonts.
+### JSF
 
-If you want to access the whole design space, use `MonaSansVF[wdth,wght,opsz,ital]`. On the web, you can utilize points on that space like this:
+> A lightweight JavaScript parser for [Ceedoku Save Format (`.CSF`)](https://ceedoku.github.io/csfspec) files. JSF reads CSF files and converts their contents into usable data.
+>
+> **Made with:** JavaScript
 
-```css
-@font-face {
-  font-family: 'Mona Sans VF';
-  src:
-    url('MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2 supports variations'),
-    url('MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2-variations');
-  font-weight: 200 900;
-  font-stretch: 75% 125%;
-  font-optical-sizing: auto;
-}
+<a href="https://github.com/Ceebug/JSF#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/JSF#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
-html {
-  font-family: 'Mona Sans VF';
-}
-```
+### FSJ
 
-Mona Sans includes an optical size axis (`opsz`) that automatically adjusts the font's design for optimal readability at different sizes. The optical size range spans from 1 to 100, where smaller values (1-20) are optimized for body text with improved readability, while larger values (21-100) are designed for display use with refined details and tighter spacing. When `font-optical-sizing: auto` is set, browsers will automatically select the appropriate optical size based on the font size, or you can manually control it using `font-variation-settings: "opsz" [value]`. That looks like this:
+> A lightweight JavaScript serialiser for [Ceedoku Save Format (`.CSF`)](https://ceedoku.github.io/csfspec) files. FSJ takes data and creates a valid CSF save file from it.
+>
+> **Made with:** JavaScript
 
-```css
-.heading {
-  font-variation-settings: "wght" 700, "wdth" 125, "opsz" 72; /* Bold, Expanded, Display size */
-}
+<a href="https://github.com/Ceebug/FSJ#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/FSJ#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
-.body-text {
-  font-variation-settings: "wght" 400, "wdth" 100, "opsz" 12; /* Regular, Normal width, Text size */
-}
-```
+### Pixelmoji
 
-To reduce [CLS](https://web.dev/cls/), you can preload the font in the `head` of your document:
+> A Minecraft mod that adds proper emoji support to the game.
+>
+> **Made with:** Java, JSON
+>
+> This mod's code is AI-generated because it is intended to function like a texture pack, but has to be a mod since resource packs cannot accomplish this (properly).
+>
 
-```html
-<link rel="preload" href="MonaSansVF[wdth,wght,opsz,ital].woff2" as="font" type="font/woff2" crossorigin>
-```
+<div>
+<a href="https://github.com/Ceebug/Pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/Pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a></div>
 
-## Stylistic sets
+### Teal Main Menus
 
-Mona Sans has ten stylistic sets:
+> A Minecraft resource pack that gives the game's menus and hotbar a teal makeover, including buttons, sliders, inventory screens, and more.
+>
+> **Made with:** JSON, PNG
 
-| Set | Description | Example |
-| --- | --- | --- | 
-| ss01 | Square diacritical marks | <img src="https://github.com/user-attachments/assets/c8be9ca8-8d7a-46d5-843a-7dfc0ca9a171" width="400"> |
-| ss02 | Wide uppercase I | <img src="https://github.com/user-attachments/assets/f971d907-c8a5-4fbf-ac75-bf3411a00f57" width="400"> |
-| ss03 | Lowercase l with tail | <img src="https://github.com/user-attachments/assets/e20dd37c-f7ba-4964-8888-dd679ed7d3fc" width="400"> |
-| ss04 | Lowercase l with top serif | <img src="https://github.com/user-attachments/assets/6aa71393-642e-4989-843d-4c2b9d6b5a1c" width="400"> |
-| ss05 | Double-storey a | <img src="https://github.com/user-attachments/assets/c411d743-0bb8-4f15-ad30-769c6d5b83d5" width="400"> |
-| ss06 | Double-storey g | <img src="https://github.com/user-attachments/assets/cc640587-6505-49a9-836c-a4a091b0a4cb" width="400"> |
-| ss07 | Square G | <img src="https://github.com/user-attachments/assets/2c973b98-8398-4ab2-bb74-45980de799ea" width="400"> |
-| ss08 | Tabular zero with straight bar | <img src="https://github.com/user-attachments/assets/1efe404b-ca17-4dbb-877e-47a7080d2785" width="400"> |
-| ss09 | Q with diagonal arm | <img src="https://github.com/user-attachments/assets/5f7f28e7-d325-496a-8362-21d7a71b362a" width="400"> |
-| ss10 | J with bowl | <img src="https://github.com/user-attachments/assets/5a0776c8-8acf-41ad-ba23-e26515bc1f8e" width="400"> |
+<div>
+<a href="https://modrinth.com/resourcepack/teal-main-menus#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/resourcepack/teal-main-menus#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
 
-When using Mona Sans on the web, you can control each stylistic set with the syntax `"ssXX" on/off`. If you wanted square diacritical marks, small letter L distinct from capital I, and alternative small letter g it would look like this:
+### Ceebug's Rounded Hotbar
 
-```css
-html {
-  font-family: 'Mona Sans VF';
-  font-feature-settings: "ss01" on, "ss03" on, "ss05" on;
-}
-```
+> A Minecraft resource pack that gives every hotbar slot rounded corners to match the off-hand slot, making the HUD more visually consistent.
+>
+> **Made with:** JSON, PNG
 
-## Ligatures
+<div>
+<a href="https://modrinth.com/resourcepack/roundedhotbar#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/resourcepack/roundedhotbar#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
 
-Mona Sans comes with seven ligatures:
+### Diamond Upgrade Templates
 
-| Ligature | Example |
-| --- | --- | 
-| ff | ![ff](https://github.com/user-attachments/assets/257cf188-808c-4bfc-9087-61dedf4c1e6f) | 
-| ffi | ![ffi](https://github.com/user-attachments/assets/f7c92ef1-90ef-4bec-9f00-1a4c522e1c73) | 
-| fy | ![fy](https://github.com/user-attachments/assets/232ead1c-09bd-4567-b17f-9d2651edef63) | 
-| fi | ![fi](https://github.com/user-attachments/assets/2cd901e4-f077-449d-ad6a-eec683b7f402) | 
-| fl | ![fl](https://github.com/user-attachments/assets/c0591522-f273-48fd-a0f5-0e2c77df6e9a) | 
-| ti | ![ti](https://github.com/user-attachments/assets/556aab9f-e8f5-40dd-b8d2-70903d0cab65) | 
-| tt | ![tt](https://github.com/user-attachments/assets/d0392c30-2b8c-4646-b578-0ae66a328505) | 
+> A Minecraft mod that adds Diamond Upgrade Templates and Diamond Ingots, allowing you to upgrade iron armour and tools into diamond gear while keeping their durability, enchantments, and trims.
+>
+> **Made with:** Java, JSON
 
-## Mona Sans Styles
+<div>
+<a href="https://modrinth.com/mod/diamond-upgrade-templates#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/diamond-upgrade-templates#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
 
-With the newly added monospace, display, and display italic styles, Mona Sans' design space now spans 168 instances. Below is a map for the whole space. Style entries with a hyphen are elidable, meaning they are the default and have no name.
+### Useful Recipe Book
 
-| Axes | Mapping | Style name |
-| --- | --- | --- |
-| Weight (wght) | 200 | ExtraLight |
-|  | 300 | Light |
-| - | 400 | Regular |
-| - | 500 | Medium |
-| - | 600 | SemiBold |
-| - | 700 | Bold |
-| - | 800 | ExtraBold |
-| - | 900 | Black |
-| Width (wdth) | 75 | Condensed |
-| - | 87.5 | SemiCondensed |
-| - | 100 | - |
-| - | 112.5 | SemiExpanded |
-| - | 125 | Expanded |
-| Italic (ital) | 0 | Roman |
-| - | 1 | Italic |
-| Optical Size (opsz) | 20 | - |
-| - | 72 | Display |
+> A Minecraft mod that adds a craftable recipe book, allowing players to unlock every recipe in the game.
+>
+> **Made with:** Java, JSON
 
+<div>
+<a href="https://modrinth.com/mod/useful-recipe-book#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/useful-recipe-book#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
+</div>
 
-### Mona Sans Mono Styles
+### NiceNav
 
-![mona-sans-mono](https://github.com/user-attachments/assets/c627ca73-a4c5-483a-b95d-cbe0b07f5a23)
+> A Firefox style modification that makes window navigation controls look exactly the same when hovered over as any other button that lives on the browser chrome right next to them.
+>
+> **Made with:** CSS
 
-| Family or Axes | Mapping | Styles |
-| --- | --- | --- |
-| Weight (wght) | 200 | ExtraLight |
-| - | 300 | Light |
-| - | 400 | Regular |
-| - | 500 | Medium |
-| - | 600 | SemiBold |
-| - | 700 | Bold |
-| - | 800 | ExtraBold |
-| - | 900 | Black |
-| Width (wdth) | 75 | Condensed |
-| - | 87.5 | SemiCondensed |
-| - | 100 | - |
-| - | 112.5 | SemiExpanded |
-| - | 125 | Expanded |
+<a href="https://github.com/Ceebug/nicenav#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicenav#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
-## License
-Mona Sans is licensed under the [SIL Open Font License v1.1](https://scripts.sil.org/OFL).
+### NiceTabs
+
+> A Firefox style modification that adds some spacing to the left of the open tabs.
+>
+> **Made with:** CSS
+
+<a href="https://github.com/Ceebug/nicetabs#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicetabs#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
+
+### NiceToolbar
+
+> A Firefox style modification that makes the history buttons aligned properly on the toolbar.
+>
+> **Made with:** CSS
+
+<a href="https://github.com/Ceebug/nicetoolbar#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicetoolbar#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
+
+### NiceOneLine
+
+> A clean, minimalist patch for modern Firefox that forces the navigation bar and tabs into a single, seamless row.
+>
+> **Made with:** CSS
+
+<a href="https://github.com/Ceebug/niceoneline#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/niceoneline#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
+
+## Stats
+
+<div>
+  <img src="https://github.com/ceebug/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub overview stats">
+  <img src="https://github.com/ceebug/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub overview stats">
+  <img src="https://github.com/ceebug/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="GitHub language stats">
+  <img src="https://github.com/ceebug/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="GitHub language stats">
+</div>
+
+## Socials
+
+<div><img src="socialtext/dark/spotify.svg#gh-dark-mode-only" height="44" alt="Spotify"><img src="socialtext/light/spotify.svg#gh-light-mode-only" height="44" alt="Spotify">
+
+<a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://open.spotify.com/user/kivkz06ysfg5c54dwqaj0nd2z#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div><div><img src="socialtext/dark/gravatar.svg#gh-dark-mode-only" height="44" alt="Gravatar"><img src="socialtext/light/gravatar.svg#gh-light-mode-only" height="44" alt="Gravatar">
+
+<a href="https://gravatar.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://gravatar.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div><div><img src="socialtext/dark/patreon.svg#gh-dark-mode-only" height="44" alt="Patreon"><img src="socialtext/light/patreon.svg#gh-light-mode-only" height="44" alt="Patreon">
+
+<a href="https://patreon.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://patreon.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div><div><img src="socialtext/dark/modrinth.svg#gh-dark-mode-only" height="44" alt="Modrinth"><img src="socialtext/light/modrinth.svg#gh-light-mode-only" height="44" alt="Modrinth">
+
+<a href="https://modrinth.com/user/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://modrinth.com/user/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div><div><img src="socialtext/dark/discord.svg#gh-dark-mode-only" height="44" alt="Discord (Server)"><img src="socialtext/light/discord.svg#gh-light-mode-only" height="44" alt="Discord (Server)">
+
+<a href="https://discord.gg/vysSfheWU#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://discord.gg/vysSfheWU#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div><div><img src="socialtext/dark/soundcloud.svg#gh-dark-mode-only" height="44" alt="SoundCloud"><img src="socialtext/light/soundcloud.svg#gh-light-mode-only" height="44" alt="SoundCloud">
+
+<a href="https://soundcloud.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://soundcloud.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div><div><img src="socialtext/dark/crowdin.svg#gh-dark-mode-only" height="44" alt="Crowdin"><img src="socialtext/light/crowdin.svg#gh-light-mode-only" height="44" alt="Crowdin">
+
+<a href="https://crowdin.com/profile/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://crowdin.com/profile/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
+
+</div>
