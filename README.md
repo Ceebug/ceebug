@@ -26,13 +26,19 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 <img src="card/dark/pixelmoji.svg#gh-dark-mode-only" width="100%" alt="Pixelmoji project card">
 <img src="card/light/pixelmoji.svg#gh-light-mode-only" width="100%" alt="Pixelmoji project card">
 
+<a href="https://github.com/Ceebug/Pixelmoji"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="View repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="View repository"></a> <a href="https://modrinth.com/mod/pixelmoji"><img src="buttons/dark/view-modrinth.svg#gh-dark-mode-only" height="36" alt="View Modrinth page"><img src="buttons/light/view-modrinth.svg#gh-light-mode-only" height="36" alt="View Modrinth page"></a>
+
 ### Teal Main Menus
 <img src="card/dark/teal-main-menus.svg#gh-dark-mode-only" width="100%" alt="Teal Main Menus project card">
 <img src="card/light/teal-main-menus.svg#gh-light-mode-only" width="100%" alt="Teal Main Menus project card">
 
+<a href="https://modrinth.com/resourcepack/teal-main-menus"><img src="buttons/dark/view-modrinth.svg#gh-dark-mode-only" height="36" alt="View Modrinth page"><img src="buttons/light/view-modrinth.svg#gh-light-mode-only" height="36" alt="View Modrinth page"></a>
+
 ### Ceebug's Rounded Hotbar
 <img src="card/dark/rounded-hotbar.svg#gh-dark-mode-only" width="100%" alt="Ceebug's Rounded Hotbar project card">
 <img src="card/light/rounded-hotbar.svg#gh-light-mode-only" width="100%" alt="Ceebug's Rounded Hotbar project card">
+
+<a href="https://modrinth.com/resourcepack/roundedhotbar"><img src="buttons/dark/view-modrinth.svg#gh-dark-mode-only" height="36" alt="View Modrinth page"><img src="buttons/light/view-modrinth.svg#gh-light-mode-only" height="36" alt="View Modrinth page"></a>
 
 ### Diamond Upgrade Templates
 <img src="card/dark/diamond-upgrade-templates.svg#gh-dark-mode-only" width="100%" alt="Diamond Upgrade Templates project card">
