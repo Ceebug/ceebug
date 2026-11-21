@@ -62,13 +62,19 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 <img src="card/dark/nicetabs.svg#gh-dark-mode-only" width="100%" alt="NiceTabs project card">
 <img src="card/light/nicetabs.svg#gh-light-mode-only" width="100%" alt="NiceTabs project card">
 
+<a href="https://github.com/Ceebug/nicetabs"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="View repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="View repository"></a>
+
 ### NiceToolbar
 <img src="card/dark/nicetoolbar.svg#gh-dark-mode-only" width="100%" alt="NiceToolbar project card">
 <img src="card/light/nicetoolbar.svg#gh-light-mode-only" width="100%" alt="NiceToolbar project card">
 
+<a href="https://github.com/Ceebug/nicetoolbar"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="View repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="View repository"></a>
+
 ### NiceOneLine
 <img src="card/dark/niceoneline.svg#gh-dark-mode-only" width="100%" alt="NiceOneLine project card">
 <img src="card/light/niceoneline.svg#gh-light-mode-only" width="100%" alt="NiceOneLine project card">
+
+<a href="https://github.com/Ceebug/niceoneline"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="View repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="View repository"></a>
 
 ## Stats
 
