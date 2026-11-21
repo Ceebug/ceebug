@@ -6,11 +6,11 @@
         .wrapper { width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
         button { appearance:none; -webkit-appearance:none; border:0; outline:0; box-shadow:none; width:100%; height:100%; margin:0; padding:0 14px; border-radius:6px; background:#21262d; color:#c9d1d9; display:inline-flex; align-items:center; justify-content:center; gap:9px; font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; line-height:1; white-space:nowrap; cursor:pointer; transition:background-color .15s,color .15s; }
         button:hover { background:#30363d; color:#ffffff; }
-        svg { width:20px; height:20px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+        svg { width:17px; height:17px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
       </xhtml:style>
       <xhtml:button type="button">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" aria-hidden="true" fill="none"><g transform="translate(1.5 -8.5)"><rect x="0" y="10" width="17" height="17" rx="2"/><path d="M4 14h9M4 18h9M4 22h5"/></g></svg>
-        <xhtml:span>View repository</xhtml:span>
+        <xhtml:span style="display:flex;align-items:center;height:100%;line-height:1;">View repository</xhtml:span>
       </xhtml:button>
     </xhtml:div>
   </foreignObject>

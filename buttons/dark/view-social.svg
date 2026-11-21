@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="160" height="40" viewBox="0 0 160 40">
-  <foreignObject x="0" y="0" width="160" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="160" height="36" viewBox="0 0 160 36">
+  <foreignObject x="0" y="0" width="160" height="36">
     <xhtml:div xmlns="http://www.w3.org/1999/xhtml" class="wrapper">
       <xhtml:style>
         * { box-sizing: border-box; }
         .wrapper { width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
         button { appearance:none; -webkit-appearance:none; border:0; outline:0; box-shadow:none; width:100%; height:100%; margin:0; padding:0 14px; border-radius:6px; background:#21262d; color:#c9d1d9; display:inline-flex; align-items:center; justify-content:center; gap:9px; font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; line-height:1; white-space:nowrap; cursor:pointer; transition:background-color .15s,color .15s; }
         button:hover { background:#30363d; color:#ffffff; }
-        svg { width:22px; height:22px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+        svg { width:17px; height:17px; flex:none; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
       </xhtml:style>
       <xhtml:button type="button">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" fill="none"><path d="M14 6h4v4M18 6l-8 8M18 14v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>
-        <xhtml:span>View social</xhtml:span>
+        <xhtml:span style="display:flex;align-items:center;height:100%;line-height:1;">View social</xhtml:span>
       </xhtml:button>
     </xhtml:div>
   </foreignObject>
