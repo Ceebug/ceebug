@@ -164,7 +164,7 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 
 <div>
 
-### <img src="icons/dark/soundcloud.svg#gh-dark-mode-only" height="24" alt=""><img src="icons/light/soundcloud.svg#gh-light-mode-only" height="24" alt=""> SoundCloud
+<h3><img src="icons/dark/soundcloud.svg#gh-dark-mode-only" height="15em" alt="" align="abstop"><img src="icons/light/soundcloud.svg#gh-light-mode-only" height="100%" alt="" align="absmiddle"> SoundCloud</h3>
 <a href="https://soundcloud.com/ceebug/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-social.svg" height="36" alt="View Social"></a> <a href="https://soundcloud.com/ceebug/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-social.svg" height="36" alt="View Social"></a>
 
 </div>
