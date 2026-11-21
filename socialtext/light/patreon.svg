@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="133" height="44" viewBox="0 0 133 44"
+  role="img" aria-label="Patreon">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Mona Sans";
+        src: url("https://raw.githubusercontent.com/Ceebug/ceebug/main/fonts/variable/MonaSansVF%5Bopsz%2Cwght%5D.ttf") format("truetype");
+        font-weight: 200 900;
+      }
+      .label {
+        font-family: "Mona Sans", sans-serif;
+        font-size: 22px;
+        font-weight: 650;
+        fill: #24292f;
+      }
+    </style>
+  </defs>
+  <image href="https://raw.githubusercontent.com/Ceebug/ceebug/main/icons/light/patreon.svg" x="0" y="7" width="30" height="30"
+         preserveAspectRatio="xMidYMid meet"/>
+  <text class="label" x="40" y="29">Patreon</text>
+</svg>
