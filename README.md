@@ -5,98 +5,52 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 ## Projects
 
 ### Ceedoku
-
 <img src="card/dark/ceedoku.svg#gh-dark-mode-only" width="100%" alt="Ceedoku project card">
 <img src="card/light/ceedoku.svg#gh-light-mode-only" width="100%" alt="Ceedoku project card">
 
-<div>
-<a href="https://ceedoku.github.io/#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/play-ceedoku.svg" height="36" alt="Play Ceedoku"></a> <a href="https://ceedoku.github.io/#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/play-ceedoku.svg" height="36" alt="Play Ceedoku"></a> <a href="https://github.com/Ceebug/Ceedoku#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a><a href="https://github.com/Ceebug/Ceedoku#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://ceedoku.github.io/home#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/learn-more-ceedoku.svg" height="36" alt="Learn more"></a> <a href="https://ceedoku.github.io/home#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/learn-more-ceedoku.svg" height="36" alt="Learn more"></a></div>
-
 ### JSF
-
 <img src="card/dark/jsf.svg#gh-dark-mode-only" width="100%" alt="JSF project card">
 <img src="card/light/jsf.svg#gh-light-mode-only" width="100%" alt="JSF project card">
 
-<a href="https://github.com/Ceebug/JSF#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/JSF#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
-
 ### FSJ
-
 <img src="card/dark/fsj.svg#gh-dark-mode-only" width="100%" alt="FSJ project card">
 <img src="card/light/fsj.svg#gh-light-mode-only" width="100%" alt="FSJ project card">
 
-<a href="https://github.com/Ceebug/FSJ#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/FSJ#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
-
 ### Pixelmoji
-
 <img src="card/dark/pixelmoji.svg#gh-dark-mode-only" width="100%" alt="Pixelmoji project card">
 <img src="card/light/pixelmoji.svg#gh-light-mode-only" width="100%" alt="Pixelmoji project card">
 
-<div>
-<a href="https://github.com/Ceebug/Pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/Pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/pixelmoji#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a></div>
-
 ### Teal Main Menus
-
 <img src="card/dark/teal-main-menus.svg#gh-dark-mode-only" width="100%" alt="Teal Main Menus project card">
 <img src="card/light/teal-main-menus.svg#gh-light-mode-only" width="100%" alt="Teal Main Menus project card">
 
-<div>
-<a href="https://modrinth.com/resourcepack/teal-main-menus#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/resourcepack/teal-main-menus#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
-</div>
-
 ### Ceebug's Rounded Hotbar
-
 <img src="card/dark/rounded-hotbar.svg#gh-dark-mode-only" width="100%" alt="Ceebug's Rounded Hotbar project card">
 <img src="card/light/rounded-hotbar.svg#gh-light-mode-only" width="100%" alt="Ceebug's Rounded Hotbar project card">
 
-<div>
-<a href="https://modrinth.com/resourcepack/roundedhotbar#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/resourcepack/roundedhotbar#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
-</div>
-
 ### Diamond Upgrade Templates
-
 <img src="card/dark/diamond-upgrade-templates.svg#gh-dark-mode-only" width="100%" alt="Diamond Upgrade Templates project card">
 <img src="card/light/diamond-upgrade-templates.svg#gh-light-mode-only" width="100%" alt="Diamond Upgrade Templates project card">
 
-<div>
-<a href="https://modrinth.com/mod/diamond-upgrade-templates#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/diamond-upgrade-templates#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
-</div>
-
 ### Useful Recipe Book
-
 <img src="card/dark/useful-recipe-book.svg#gh-dark-mode-only" width="100%" alt="Useful Recipe Book project card">
 <img src="card/light/useful-recipe-book.svg#gh-light-mode-only" width="100%" alt="Useful Recipe Book project card">
 
-<div>
-<a href="https://modrinth.com/mod/useful-recipe-book#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-modrinth.svg" height="36" alt="View Modrinth page"></a> <a href="https://modrinth.com/mod/useful-recipe-book#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-modrinth.svg" height="36" alt="View Modrinth page"></a>
-</div>
-
 ### NiceNav
-
 <img src="card/dark/nicenav.svg#gh-dark-mode-only" width="100%" alt="NiceNav project card">
 <img src="card/light/nicenav.svg#gh-light-mode-only" width="100%" alt="NiceNav project card">
 
-<a href="https://github.com/Ceebug/nicenav#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicenav#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
-
 ### NiceTabs
-
 <img src="card/dark/nicetabs.svg#gh-dark-mode-only" width="100%" alt="NiceTabs project card">
 <img src="card/light/nicetabs.svg#gh-light-mode-only" width="100%" alt="NiceTabs project card">
 
-<a href="https://github.com/Ceebug/nicetabs#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicetabs#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
-
 ### NiceToolbar
-
 <img src="card/dark/nicetoolbar.svg#gh-dark-mode-only" width="100%" alt="NiceToolbar project card">
 <img src="card/light/nicetoolbar.svg#gh-light-mode-only" width="100%" alt="NiceToolbar project card">
 
-<a href="https://github.com/Ceebug/nicetoolbar#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/nicetoolbar#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
-
 ### NiceOneLine
-
 <img src="card/dark/niceoneline.svg#gh-dark-mode-only" width="100%" alt="NiceOneLine project card">
 <img src="card/light/niceoneline.svg#gh-light-mode-only" width="100%" alt="NiceOneLine project card">
-
-<a href="https://github.com/Ceebug/niceoneline#gh-dark-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/dark/view-repository.svg" height="36" alt="View repository"></a> <a href="https://github.com/Ceebug/niceoneline#gh-light-mode-only"><img src="https://github.com/ceebug/ceebug/blob/main/buttons/light/view-repository.svg" height="36" alt="View repository"></a>
 
 ## Stats
 
