@@ -44,13 +44,19 @@ I enjoy building things for the web, making Minecraft mods (as well as resource 
 <img src="card/dark/diamond-upgrade-templates.svg#gh-dark-mode-only" width="100%" alt="Diamond Upgrade Templates project card">
 <img src="card/light/diamond-upgrade-templates.svg#gh-light-mode-only" width="100%" alt="Diamond Upgrade Templates project card">
 
+<a href="https://modrinth.com/mod/diamond-upgrade-templates"><img src="buttons/dark/view-modrinth.svg#gh-dark-mode-only" height="36" alt="View Modrinth page"><img src="buttons/light/view-modrinth.svg#gh-light-mode-only" height="36" alt="View Modrinth page"></a>
+
 ### Useful Recipe Book
 <img src="card/dark/useful-recipe-book.svg#gh-dark-mode-only" width="100%" alt="Useful Recipe Book project card">
 <img src="card/light/useful-recipe-book.svg#gh-light-mode-only" width="100%" alt="Useful Recipe Book project card">
 
+<a href="https://modrinth.com/mod/useful-recipe-book"><img src="buttons/dark/view-modrinth.svg#gh-dark-mode-only" height="36" alt="View Modrinth page"><img src="buttons/light/view-modrinth.svg#gh-light-mode-only" height="36" alt="View Modrinth page"></a>
+
 ### NiceNav
 <img src="card/dark/nicenav.svg#gh-dark-mode-only" width="100%" alt="NiceNav project card">
 <img src="card/light/nicenav.svg#gh-light-mode-only" width="100%" alt="NiceNav project card">
+
+<a href="https://github.com/Ceebug/nicenav"><img src="buttons/dark/view-repository.svg#gh-dark-mode-only" height="36" alt="View repository"><img src="buttons/light/view-repository.svg#gh-light-mode-only" height="36" alt="View repository"></a>
 
 ### NiceTabs
 <img src="card/dark/nicetabs.svg#gh-dark-mode-only" width="100%" alt="NiceTabs project card">
